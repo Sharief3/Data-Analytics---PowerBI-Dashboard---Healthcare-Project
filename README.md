@@ -40,3 +40,32 @@
 ## Dashboard 
 https://github.com/Sharief3/Data-Analytics---PowerBI-Dashboard---Healthcare-Project/blob/main/Dashboard.png
 
+##Project Insights
+
+The provides insights into the operational and financial health of the facility, focusing on five key areas:
+
+### 1. Patient-Specific Tracking (The Basics)
+The most immediate insight is the ability to instantly pull up crucial details for **any single patient** by selecting their ID
+
+*   **Key Dates:** Quickly identify when a patient was **Admitted, Discharged**, and when their **Follow Up Date** is scheduled
+*   **Total Cost:** See the patient's **total Bill Amount** right away 
+
+### 2. Resource Utilization
+The dashboard tracks how hospital resources are being used:
+
+*   **Bed Type:** Shows the **count of patients** across different types of bed occupancy, such as **Private, General, and ICU**, using a Column Chart 
+
+### 3. Service Quality
+Insights into service quality are provided:
+
+*   **Doctor Ratings:** Displays the **overall feedback/ratings for doctors** (out of five) using a Donut Chart
+
+### 4. Medical Trends
+The analysis reveals common health issues:
+
+*   **Diagnosis Trends:** A Funnel Chart shows the distribution and **trend of different illnesses** (e.g., Viral Infection, Typhoid, Malaria), helping identify the most common diagnoses among patients [4, 8, 9].
+
+### 5. Financial Analysis
+The project compares costs and coverage:
+
+*   **Cost Gap:** Compares the **Billing Amount versus the Health Insurance Amount** using a Line Chart [10, 11]. This helps visualize the difference in total cost versus coverage across various diagnosis types [9, 12].
