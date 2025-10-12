@@ -36,3 +36,6 @@
     *   A **Donut Chart** was used to visualize the **Doctor Feedback/Ratings** 
     *   A **Funnel Chart** was used to show **Diagnosis-wise Stats**, highlighting the trend of the most common illnesses 
     *   A **Line Chart** was used to show the **Billing Amount versus Health Insurance Amount** comparison, typically using the Diagnosis Type on the X-axis for context
+
+## Dashboard 
+https://github.com/Sharief3/Data-Analytics---PowerBI-Dashboard---Healthcare-Project/blob/main/Dashboard.png
