@@ -14,3 +14,6 @@
 - Overall feedback for Doctor
 - Diagnosis -Wise stats
 - Billing vs Insurance stats
+
+## Process
+
