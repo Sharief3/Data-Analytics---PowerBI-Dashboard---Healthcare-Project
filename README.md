@@ -39,3 +39,5 @@
 
 ## Dashboard 
 https://github.com/Sharief3/Data-Analytics---PowerBI-Dashboard---Healthcare-Project/blob/main/Dashboard.png
+
+<img width="1322" height="736"alt="Dashboard.png" src="https://github.com/Sharief3/Data-Analytics---PowerBI-Dashboard---Healthcare-Project/blob/main/Dashboard.png" />
