@@ -1,2 +1,5 @@
-# Data-Analytics---PowerBI-Dashboard---Healthcare-Project
-From customizable KPIs to real-time data updates, this project equips you with the skills and knowledge needed to succeed in today's data-driven world. 
+# Papolla Health Care
+
+## Project Objective
+   • To build an end-to-end power BI dashboard using the polo health care dataset
+   • To analyse and visualize specific client requirement, including patient data, billing information, bed accupancy, and doctor feedback 
