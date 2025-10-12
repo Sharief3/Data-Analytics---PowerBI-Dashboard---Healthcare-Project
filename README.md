@@ -40,9 +40,7 @@
 ## Dashboard 
 https://github.com/Sharief3/Data-Analytics---PowerBI-Dashboard---Healthcare-Project/blob/main/Dashboard.png
 
-##Project Insights
-
-The provides insights into the operational and financial health of the facility, focusing on five key areas:
+## Project Insights
 
 ### 1. Patient-Specific Tracking (The Basics)
 The most immediate insight is the ability to instantly pull up crucial details for **any single patient** by selecting their ID
