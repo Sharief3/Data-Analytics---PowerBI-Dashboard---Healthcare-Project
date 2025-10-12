@@ -67,3 +67,13 @@ The analysis reveals common health issues:
 The project compares costs and coverage:
 
 *   **Cost Gap:** Compares the **Billing Amount versus the Health Insurance Amount** using a Line Chart [10, 11]. This helps visualize the difference in total cost versus coverage across various diagnosis types [9, 12].
+
+## Conclusion
+The conclusion of the project is the successful development and deployment of a comprehensive, interactive Power BI dashboard focused on healthcare data.
+
+In simple terms, the project concluded with:
+
+1.  **A Functional, Interactive Dashboard:** A high-quality Power BI dashboard was built using the Polo Health Care dataset, fulfilling all required client specifications
+2.  **Immediate Patient Insight:** The dashboard provides the capability to instantly pull up crucial details for any single patient, including their **Admit Date, Discharge Date, Follow Up Date, and total Bill Amount** 
+3.  **Operational and Financial Clarity:** The final product offers clear visualization of key metrics, such as the breakdown of **Bed Occupancy** (Private, General, ICU), **Doctor Feedback/Ratings**, **Diagnosis Trends** (e.g., Viral Infection, Typhoid), and a crucial comparison chart showing the **Billing Amount versus the Health Insurance Amount** across different diagnoses 
+4.  **Portfolio Readiness:** The resulting interactive dashboard is **published GitHub 
