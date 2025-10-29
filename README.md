@@ -38,7 +38,8 @@
     *   A **Line Chart** was used to show the **Billing Amount versus Health Insurance Amount** comparison, typically using the Diagnosis Type on the X-axis for context
 
 ## Dashboard 
-https://github.com/Sharief3/Data-Analytics---PowerBI-Dashboard---Healthcare-Project/blob/main/Dashboard.png
+<img width="1175" height="729" alt="Dashboard" src="https://github.com/user-attachments/assets/b1959b3b-26a7-4256-ba91-ad6a5fb43e70" />
+
 
 ## Project Insights
 
