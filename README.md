@@ -5,7 +5,7 @@
    - To analyse and visualize specific client requirement, including patient data, billing information, bed accupancy, and doctor feedback 
 
 ## Data Set Used
-<a href=" past it link ">Data set</a>
+<a href="https://app.powerbi.com/groups/me/reports/3429528d-33da-4b1a-9dec-4c8237c43440/ReportSection@c4139587314efa7fd9c?experience-power-bi">Data set</a>
 
 ## The setup(Questions)
 - Patient info according to patient_Id
